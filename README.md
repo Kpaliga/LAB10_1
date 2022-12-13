@@ -1,4 +1,4 @@
-dla windowsa:
+For Win 8.1/10/11:
 ```
 docker swarm init
 
